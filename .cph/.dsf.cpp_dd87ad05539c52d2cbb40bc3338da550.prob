@@ -1,0 +1,1 @@
+{"name":"Local: dsf","url":"c:\\Users\\HP\\Desktop\\apple_website\\dsf.cpp","tests":[{"id":1732709402776,"input":"2\nabcd\ndbqca","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\apple_website\\dsf.cpp","group":"local","local":true}
